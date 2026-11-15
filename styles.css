@@ -289,7 +289,7 @@ body { background-color: var(--page-bg); }
 .meeting-room p { font-size: 1rem; max-width: 50rem; margin: 0 auto 1.5rem; color:antiquewhite} 
 .booking {background-color:#f0f0f0; color: #591E0F; display: inline-block; border: 3px solid #591E0F; outline:#fff; border-radius: 6px; padding: 0.75rem 1.625rem; min-width: 265px; font-weight: 600; font-size: 1rem; text-decoration:none;}
 .booking:hover {background-color:#9B7050; color: #f0f0f0; border: 3px solid #591E0F;  border-radius: 6px; padding: 0.75rem 1.625rem; min-width: 265px; font-weight: 600; font-size: 1rem; text-decoration:none;}
-.meeting-room .booking:focus-visible { outline: 2px solid #211917; outline-offset: 2px; }
+.meeting-room .booking:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; }
 .about-section {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
